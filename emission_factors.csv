@@ -1,0 +1,11 @@
+Vehicle Type,CO2 (g/km),CO (g/km),NOx (g/km),CH4 (g/km),SO2 (g/km),PM (g/km),HC (g/km),Reference
+Bus,515.2,3.6,12.0,0.09,1.42,0.56,0.87,"Mittal and Sharma, 2003"
+Omni buses,515.2,3.6,12.0,0.09,1.42,0.56,0.87,"Mittal and Sharma, 2003"
+Two wheelers,26.6,2.2,0.19,0.18,0.013,0.05,1.42,"CPCB, 2007"
+Light motor vehicles (Passenger),60.3,5.1,1.28,0.18,0.029,0.2,0.14,"CPCB, 2007"
+Cars and jeeps,223.6,1.98,0.2,0.17,0.053,0.03,0.25,"CPCB, 2007"
+Taxi,208.3,0.9,0.5,0.01,10.3,0.07,0.13,"CPCB, 2007"
+Trucks and lorries,515.2,3.6,6.3,0.09,1.42,0.28,0.87,"EEA, 2001"
+Light motor vehicles (Goods),515.2,5.1,1.28,0.09,1.42,0.2,0.14,"Kandlikar and Ramachandran, 2000"
+Trailers and tractors,515.2,5.1,1.28,0.09,1.42,0.2,0.14,"Kandlikar and Ramachandran, 2000"
+Othersa,343.87,3.86,3.89,0.11,1.94,0.24,0.54,"CPCB, 2007"
